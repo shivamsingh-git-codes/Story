@@ -1,2 +1,2 @@
 hello chapter1 welcome this side
-Today I have made an AI ChatBot
+Today I have made an AI ChatBot using OPENAI API
